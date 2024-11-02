@@ -29,7 +29,7 @@ there were some restrictions
 ==>use strict typing and avoid "any" as type.
 
 
-this task was easy to me thanks to a dear friend of mine. she developed similar project it is also availale in my repo's.
+this task was easy to me thanks to a dear friend of mine. she developed similar project it is also availale in my repo's https://github.com/meerjavali/API-NgApp
 
 
 i am able to complete the challenge on time.
