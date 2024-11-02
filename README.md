@@ -121,7 +121,7 @@ i said ok i will learn thank you...
 my analysis it was 85% good interview for me. 
 
 
-later day i got hr sorry mail. i didn't disappoint.
+later day i got hr sorry mail. i didn't disappoint. im not ready for the shift. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
