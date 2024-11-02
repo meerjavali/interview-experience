@@ -63,6 +63,7 @@ there was hi/hello. he asked me to take of my earphones and talk on laptop mic. 
 	I have told about my intro. at the end i told him thank you. (he asked me why did u told thank you. we are not done yet na ?. idk why he didn't like. i said ok. and tried to be calm )
 
 from now everything is technical
+--------------------------------
 
 3. change detection strategy in angular?
     
