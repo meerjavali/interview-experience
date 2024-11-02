@@ -88,14 +88,13 @@ from now everything is technical
 
 7. he said correct is there any other way for single instance he asked.
 
-        i took time, and said currently i could recollect only this way. (then he asked me about what happens when service created in cli like a hint) then i have told him provideIn: root concept for single instance. he said good
+   i took time, and said currently i could recollect only this way. [then he asked me about what happens when service created in cli like a hint] then i have told him provideIn: root concept for single instance. he said good
 
 
 8. he continued to ask how to inject services to component.
 
-      i said using inject() method from angular library. he continued to ask any other way. i said i use constructor level injecting in regular practice. any how it doesn't impact how we inject.
-
-he said ok.
+      i said using inject method from angular library. he continued to ask any other way. i said i use constructor level injecting in regular practice. any how it doesn't impact how we inject.
+      he said ok.
 
 9. he asked about forms , reactive forms?
 
