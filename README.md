@@ -45,7 +45,7 @@ key points
 i was doing all this sharing my screen. felt proud recollecting all the modules/syntax needed without google
 
 i got a good feedback and promoted to second round.
-..........................................................................................................................
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2nd round was technical discussion
 date 22-10-2024 and time 6pm to 7pm
 
