@@ -83,7 +83,7 @@ from now everything is technical
 
 6. As i used services concept he asked how different service instance will be created.
 
-        I have told him if we declare the service name in providers array at root module it will be one.
+   I have told him if we declare the service name in providers array at root module it will be one.
    if we declare in component level multiple instances will be created.
 
 7. he said correct is there any other way for single instance he asked.
@@ -108,8 +108,8 @@ from now everything is technical
 
 	I asked about feedback or suggestions. 
 
-        he said it was good. u had good experience in angular. but he reminded it is good to implement change detection strategy.
-       he said not aware of this concept is not good.
+    he said it was good. u had good experience in angular. but he reminded it is good to implement change detection strategy.
+    he said not aware of this concept is not good.
 
 
 i said ok i will learn thank you...
